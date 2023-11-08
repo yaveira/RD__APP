@@ -2,8 +2,7 @@
 platformName = "Android"
 automationName = "uiautomator2"
 deviceName = "S22 Ultra"
-appPackage = "com.example.vamsi.login"
-appActivity = "com.example.vamsi.login.MainActivity"
+app = "./app/app-debug.apk"
 autoGrantPermissions = true
 newCommandTimeout = 3600
 [appium_lib]
