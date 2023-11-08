@@ -9,6 +9,8 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+gemfile.lock
+exec-logs
 
 # Used by dotenv library to load environment variables.
 # .env
